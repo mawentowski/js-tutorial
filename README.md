@@ -1,2 +1,3 @@
 # js-tutorials
-This repository hosts several Javascript tutorials as examples of technical writing and the use of markdown.
+
+This repository includes several Javascript tutorials as examples of technical writing and the use of markdown.
